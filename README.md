@@ -2,7 +2,7 @@
 
 ***i dont plan to do any updates at all for this in the future. so please refrain from asking. but i do want you to have fun with this & to hopefully learn something & put it to good use*** 😘👍
 
-game made for the notGDC game jam. using & includes the [tanuki](https://github.com/lewislepton/tanuki) engine before the huge edits it now has.
+[OTO](https://lewislepton.itch.io/otogamejam) was made for the [notGDC](https://itch.io/jam/notgdcjam2019) game jam. using & includes the [tanuki](https://github.com/lewislepton/tanuki) engine before the huge edits it now has.
 
 **this does not contain/include the sounds & music**
 
