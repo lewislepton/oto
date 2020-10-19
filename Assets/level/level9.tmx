@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="240" height="135" tilewidth="8" tileheight="8" infinite="0" nextlayerid="11" nextobjectid="117">
+ <objectgroup id="8" name="grid" locked="1">
+  <object id="6" x="0" y="1072">
+   <polygon points="0,8 1920,-1072 1920,8 0,-1072"/>
+  </object>
+  <object id="7" x="960" y="1080">
+   <polygon points="0,0 0,-544 0,-1080 960,-544 -960,-544"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="platform">
+  <object id="42" name="platform" x="64" y="520" width="192" height="32"/>
+  <object id="43" name="platform" x="1664" y="520" width="192" height="32"/>
+  <object id="67" name="platform" x="320" y="520" width="128" height="32"/>
+  <object id="71" name="platform" x="512" y="520" width="128" height="32"/>
+  <object id="74" name="platform" x="704" y="520" width="512" height="32"/>
+  <object id="79" name="platform" x="1472" y="520" width="128" height="32"/>
+  <object id="80" name="platform" x="1280" y="520" width="128" height="32"/>
+ </objectgroup>
+ <objectgroup id="10" name="polygon">
+  <object id="115" name="polygon" x="1096" y="520">
+   <polygon points="0,0 0,-40 28,-64 56,-40 56,0"/>
+  </object>
+  <object id="116" name="polygon" x="768" y="520">
+   <polygon points="0,0 0,-40 28,-64 56,-40 56,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="player">
+  <object id="3" name="player" x="1736" y="472" width="48" height="48">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="square">
+  <object id="65" name="square" x="360" y="472" width="48" height="48"/>
+  <object id="70" name="square" x="552" y="472" width="48" height="48"/>
+  <object id="72" name="square" x="936" y="472" width="48" height="48"/>
+  <object id="76" name="square" x="1512" y="472" width="48" height="48"/>
+  <object id="77" name="square" x="1320" y="472" width="48" height="48"/>
+ </objectgroup>
+ <objectgroup id="7" name="bounce"/>
+ <objectgroup id="9" name="spike">
+  <object id="97" name="spike" x="1584" y="520">
+   <polygon points="16,0 24,8 16,16 24,24 16,32 8,24 8,8"/>
+  </object>
+  <object id="98" name="spike" x="1480" y="520">
+   <polygon points="-8,0 -16,8 -8,16 -16,24 -8,32 0,24 0,8"/>
+  </object>
+  <object id="99" name="spike" x="1392" y="520">
+   <polygon points="16,0 24,8 16,16 24,24 16,32 8,24 8,8"/>
+  </object>
+  <object id="100" name="spike" x="1288" y="520">
+   <polygon points="-8,0 -16,8 -8,16 -16,24 -8,32 0,24 0,8"/>
+  </object>
+  <object id="101" name="spike" x="1200" y="520">
+   <polygon points="16,0 24,8 16,16 24,24 16,32 8,24 8,8"/>
+  </object>
+  <object id="106" name="spike" x="712" y="520">
+   <polygon points="-8,0 -16,8 -8,16 -16,24 -8,32 0,24 0,8"/>
+  </object>
+  <object id="107" name="spike" x="624" y="520">
+   <polygon points="16,0 24,8 16,16 24,24 16,32 8,24 8,8"/>
+  </object>
+  <object id="108" name="spike" x="520" y="520">
+   <polygon points="-8,0 -16,8 -8,16 -16,24 -8,32 0,24 0,8"/>
+  </object>
+  <object id="109" name="spike" x="432" y="520">
+   <polygon points="16,0 24,8 16,16 24,24 16,32 8,24 8,8"/>
+  </object>
+  <object id="110" name="spike" x="328" y="520">
+   <polygon points="-8,0 -16,8 -8,16 -16,24 -8,32 0,24 0,8"/>
+  </object>
+  <object id="111" name="spike" x="240" y="520">
+   <polygon points="16,0 24,8 16,16 24,24 16,32 8,24 8,8"/>
+  </object>
+  <object id="114" name="spike" x="1672" y="520">
+   <polygon points="-8,0 -16,8 -8,16 -16,24 -8,32 0,24 0,8"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="exit">
+  <object id="5" name="exit" x="128" y="456" width="64" height="64"/>
+ </objectgroup>
+</map>

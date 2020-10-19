@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="240" height="135" tilewidth="8" tileheight="8" infinite="0" nextlayerid="16" nextobjectid="629">
+ <objectgroup id="8" name="grid" locked="1">
+  <object id="6" x="0" y="1072">
+   <polygon points="0,8 1920,-1072 1920,8 0,-1072"/>
+  </object>
+  <object id="7" x="960" y="1080">
+   <polygon points="0,0 0,-544 0,-1080 960,-544 -960,-544"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="11" name="trianglepath">
+  <object id="525" name="trianglepath" x="80" y="984">
+   <polygon points="0,0 768,0 384,64"/>
+  </object>
+  <object id="584" name="trianglepath" x="16" y="200">
+   <polygon points="0,0 608,0 304,64"/>
+  </object>
+  <object id="613" name="trianglepath" x="992" y="984">
+   <polygon points="0,0 832,0 416,64"/>
+  </object>
+  <object id="615" name="trianglepath" x="992" y="984">
+   <polygon points="0,0 832,0 416,64"/>
+  </object>
+  <object id="621" name="trianglepath" x="1064" y="200">
+   <polygon points="0,0 592,0 296,64"/>
+  </object>
+  <object id="628" name="trianglepath" x="80" y="984">
+   <polygon points="0,0 768,0 384,64"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="5" name="exit">
+  <object id="589" name="exit" x="928" y="72" width="64" height="64"/>
+ </objectgroup>
+ <objectgroup id="3" name="platform">
+  <object id="510" name="platform" x="928" y="136" width="64" height="944"/>
+  <object id="521" name="platform" x="1064" y="264" width="680" height="32"/>
+  <object id="524" name="platform" x="0" y="1048" width="1920" height="32"/>
+  <object id="548" name="platform" x="896" y="792" width="96" height="32"/>
+  <object id="549" name="platform" x="752" y="792" width="24" height="32"/>
+  <object id="550" name="platform" x="608" y="792" width="24" height="32"/>
+  <object id="551" name="platform" x="320" y="792" width="24" height="32"/>
+  <object id="552" name="platform" x="464" y="792" width="24" height="32"/>
+  <object id="554" name="platform" x="112" y="632" width="24" height="32"/>
+  <object id="562" name="platform" x="616" y="552" width="24" height="32"/>
+  <object id="563" name="platform" x="472" y="552" width="24" height="32"/>
+  <object id="564" name="platform" x="328" y="552" width="24" height="32"/>
+  <object id="566" name="platform" x="760" y="552" width="24" height="32"/>
+  <object id="568" name="platform" x="176" y="792" width="24" height="32"/>
+  <object id="569" name="platform" x="184" y="552" width="24" height="32"/>
+  <object id="581" name="platform" x="896" y="264" width="96" height="32"/>
+  <object id="582" name="platform" x="0" y="264" width="704" height="32"/>
+  <object id="583" name="platform" x="0" y="0" width="16" height="1080"/>
+  <object id="587" name="platform" x="0" y="0" width="1920" height="16"/>
+  <object id="591" name="platform" x="1904" y="8" width="16" height="1072"/>
+  <object id="601" name="platform" x="1152" y="792" width="24" height="32"/>
+  <object id="602" name="platform" x="1440" y="792" width="24" height="32"/>
+  <object id="603" name="platform" x="1296" y="792" width="24" height="32"/>
+  <object id="604" name="platform" x="1584" y="792" width="24" height="32"/>
+  <object id="605" name="platform" x="1728" y="792" width="24" height="32"/>
+  <object id="606" name="platform" x="1872" y="792" width="96" height="32"/>
+  <object id="607" name="platform" x="1088" y="632" width="24" height="32"/>
+  <object id="608" name="platform" x="1160" y="552" width="24" height="32"/>
+  <object id="609" name="platform" x="1736" y="552" width="24" height="32"/>
+  <object id="610" name="platform" x="1304" y="552" width="24" height="32"/>
+  <object id="611" name="platform" x="1448" y="552" width="24" height="32"/>
+  <object id="612" name="platform" x="1592" y="552" width="24" height="32"/>
+  <object id="618" name="platform" x="864" y="520" width="128" height="32"/>
+  <object id="619" name="platform" x="1840" y="520" width="128" height="32"/>
+  <object id="620" name="platform" x="1872" y="264" width="96" height="32"/>
+  <object id="626" name="platform" x="16" y="936" width="64" height="32"/>
+ </objectgroup>
+ <objectgroup id="13" name="polygon">
+  <object id="543" name="polygon" x="452" y="1048">
+   <polygon points="0,0 0,-40 28,-64 56,-40 56,0"/>
+  </object>
+  <object id="585" name="polygon" x="364" y="264">
+   <polygon points="0,0 0,-40 28,-64 56,-40 56,0"/>
+  </object>
+  <object id="624" name="polygon" x="1376" y="264">
+   <polygon points="0,0 0,-40 28,-64 56,-40 56,0"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="2" name="player">
+  <object id="481" name="player" x="24" y="888" width="48" height="48">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="square">
+  <object id="436" name="square" x="1008" y="1000" width="48" height="48"/>
+  <object id="486" name="square" x="864" y="1000" width="48" height="48"/>
+  <object id="520" name="square" x="1600" y="216" width="48" height="48"/>
+  <object id="560" name="square" x="864" y="472" width="48" height="48"/>
+  <object id="586" name="square" x="32" y="216" width="48" height="48"/>
+  <object id="588" name="square" x="656" y="216" width="48" height="48"/>
+  <object id="600" name="square" x="1840" y="1000" width="48" height="48"/>
+  <object id="617" name="square" x="1840" y="472" width="48" height="48"/>
+  <object id="623" name="square" x="1160" y="216" width="48" height="48"/>
+ </objectgroup>
+ <objectgroup id="7" name="bounce">
+  <object id="590" name="bounce" x="784" y="264" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup id="9" name="spike">
+  <object id="546" name="spike" x="864" y="1048">
+   <polygon points="0,0 16,16 128,16 128,0 120,-8 112,0 104,-8 96,0 88,-8 80,0 72,-8 64,0 56,-8 48,0 40,-8 32,0 24,-8 16,0 8,-8"/>
+  </object>
+  <object id="558" name="spike" x="864" y="520">
+   <polygon points="0,0 16,16 128,16 128,0 120,-8 112,0 104,-8 96,0 88,-8 80,0 72,-8 64,0 56,-8 48,0 40,-8 32,0 24,-8 16,0 8,-8"/>
+  </object>
+  <object id="616" name="spike" x="1840" y="520">
+   <polygon points="0,0 16,16 128,16 128,0 120,-8 112,0 104,-8 96,0 88,-8 80,0 72,-8 64,0 56,-8 48,0 40,-8 32,0 24,-8 16,0 8,-8"/>
+  </object>
+  <object id="625" name="spike" x="928" y="1048">
+   <polygon points="0,0 16,16 112,16 128,0 120,-8 112,0 104,-8 96,0 88,-8 80,0 72,-8 64,0 56,-8 48,0 40,-8 32,0 24,-8 16,0 8,-8"/>
+  </object>
+ </objectgroup>
+</map>

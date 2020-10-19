@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="240" height="135" tilewidth="8" tileheight="8" infinite="0" nextlayerid="11" nextobjectid="42">
+ <objectgroup id="8" name="grid" locked="1">
+  <object id="6" x="0" y="1072">
+   <polygon points="0,8 1920,-1072 1920,8 0,-1072"/>
+  </object>
+  <object id="7" x="960" y="1080">
+   <polygon points="0,0 0,-544 0,-1080 960,-544 -960,-544"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="3" name="platform">
+  <object id="30" name="platform" x="672" y="520" width="576" height="32"/>
+ </objectgroup>
+ <objectgroup id="2" name="player">
+  <object id="3" name="player" x="672" y="472" width="48" height="48">
+   <ellipse/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="square">
+  <object id="40" name="square" x="936" y="472" width="48" height="48"/>
+ </objectgroup>
+ <objectgroup id="10" name="trianglepath">
+  <object id="41" name="trianglepath" x="728" y="456">
+   <polygon points="0,0 440,0 220,64"/>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="bounce"/>
+ <objectgroup id="9" name="spike"/>
+ <objectgroup id="5" name="exit">
+  <object id="5" name="exit" x="1184" y="456" width="64" height="64"/>
+ </objectgroup>
+</map>
